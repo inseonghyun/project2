@@ -1,14 +1,15 @@
 .wrap {
     width: 100%;
+    padding: 0 40px;
 }
 
 .container {
     width: 100%;
-    max-width: 1440px;
+    max-width: 100%;
     margin: auto;
     background: rgba(255, 255, 255, .7);
     height: inherit;
-}
+} 
 
 header {
     height: 70px;
@@ -51,8 +52,13 @@ header {
 }
 
 .content7 {
-    height: 640px;
+    height: 657px;
     background-color: paleturquoise;
+}
+
+.content8 {
+    height: 640px;
+    background-color: rgb(28, 92, 92);
 }
 
 nav {
